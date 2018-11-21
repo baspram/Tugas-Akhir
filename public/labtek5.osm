@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-11' action='modify' visible='true' lat='-6.92835474744' lon='107.59321503019'>
+    <tag k='node_id' v='NODE_1' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_1;PATH_6' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='-6.9281398956' lon='107.59321747461'>
+    <tag k='node_id' v='NODE_2' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_1' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_1;PATH_2;PATH_5' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='-6.92777152182' lon='107.59322236345'>
+    <tag k='node_id' v='NODE_3' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_2' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_2;PATH_3' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='-6.92777255502' lon='107.59357433019'>
+    <tag k='node_id' v='NODE_4' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_3' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_3;PATH_4' />
+  </node>
+  <node id='-19' action='modify' visible='true' lat='-6.92814047276' lon='107.59357188577'>
+    <tag k='node_id' v='NODE_5' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_4' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_4;PATH_5' />
+  </node>
+  <node id='-21' action='modify' visible='true' lat='-6.92836826227' lon='107.59165617799'>
+    <tag k='node_id' v='NODE_6' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_6;PATH_7;PATH_9' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-23' action='modify' visible='true' lat='-6.92869458394' lon='107.59166027561'>
+    <tag k='node_id' v='NODE_7' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_5' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_7;PATH_8' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='-6.92869819559' lon='107.59145555997'>
+    <tag k='node_id' v='NODE_8' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_6' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_8' />
+  </node>
+  <node id='-27' action='modify' visible='true' lat='-6.92837068884' lon='107.59139693566'>
+    <tag k='node_id' v='NODE_9' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_9;PATH_10;PATH_14' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-29' action='modify' visible='true' lat='-6.92812391898' lon='107.59140103328'>
+    <tag k='node_id' v='NODE_10' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_7' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_10;PATH_11;PATH_12' />
+  </node>
+  <node id='-31' action='modify' visible='true' lat='-6.92812346292' lon='107.59160593335'>
+    <tag k='node_id' v='NODE_11' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_8' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_11' />
+  </node>
+  <node id='-33' action='modify' visible='true' lat='-6.9281258895' lon='107.59130606098'>
+    <tag k='node_id' v='NODE_12' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_12;PATH_13' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='-6.92828775386' lon='107.59130440778'>
+    <tag k='node_id' v='NODE_13' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_9' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_13' />
+  </node>
+  <node id='-37' action='modify' visible='true' lat='-6.92837265936' lon='107.59112119197'>
+    <tag k='node_id' v='NODE_14' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_14;PATH_15' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-39' action='modify' visible='true' lat='-6.92826081184' lon='107.59112042367'>
+    <tag k='node_id' v='NODE_15' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_15;PATH_16;PATH_17' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-41' action='modify' visible='true' lat='-6.92825962677' lon='107.59092109259'>
+    <tag k='node_id' v='NODE_16' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_10' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_16' />
+  </node>
+  <node id='-43' action='modify' visible='true' lat='-6.92813339133' lon='107.59111938286'>
+    <tag k='node_id' v='NODE_17' />
+    <tag k='part' v='turn' />
+    <tag k='paths' v='PATH_17;PATH_18;PATH_19' />
+    <tag k='turn' v='yes' />
+  </node>
+  <node id='-45' action='modify' visible='true' lat='-6.92808650358' lon='107.59111955854'>
+    <tag k='node_id' v='NODE_18' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_11' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_18' />
+  </node>
+  <node id='-47' action='modify' visible='true' lat='-6.92813442453' lon='107.59094904155'>
+    <tag k='node_id' v='NODE_19' />
+    <tag k='object' v='yes' />
+    <tag k='object_id' v='OBJECT_12' />
+    <tag k='part' v='object' />
+    <tag k='paths' v='PATH_19' />
+  </node>
+  <node id='-49' action='modify' visible='true' lat='-6.92752028926' lon='107.59061036517' />
+  <node id='-51' action='modify' visible='true' lat='-6.92750087667' lon='107.59371197166' />
+  <node id='-53' action='modify' visible='true' lat='-6.92920623551' lon='107.59371197166' />
+  <node id='-55' action='modify' visible='true' lat='-6.92920623551' lon='107.59059778025' />
+  <node id='-57' action='modify' visible='true' lat='-6.92768460296' lon='107.5931349009' />
+  <node id='-59' action='modify' visible='true' lat='-6.92768755977' lon='107.59363033505' />
+  <node id='-61' action='modify' visible='true' lat='-6.9282269163' lon='107.59362706858' />
+  <node id='-63' action='modify' visible='true' lat='-6.92822395949' lon='107.59313163443' />
+  <node id='-65' action='modify' visible='true' lat='-6.92846982914' lon='107.59139873618' />
+  <node id='-67' action='modify' visible='true' lat='-6.92846873317' lon='107.59174429798' />
+  <node id='-69' action='modify' visible='true' lat='-6.92877250214' lon='107.59174527563' />
+  <node id='-71' action='modify' visible='true' lat='-6.92877359811' lon='107.59139971383' />
+  <node id='-73' action='modify' visible='true' lat='-6.92804096516' lon='107.59125219789' />
+  <node id='-75' action='modify' visible='true' lat='-6.92803818583' lon='107.59166682679' />
+  <node id='-77' action='modify' visible='true' lat='-6.9283129061' lon='107.59166869547' />
+  <node id='-79' action='modify' visible='true' lat='-6.92831568543' lon='107.59125406657' />
+  <node id='-81' action='modify' visible='true' lat='-6.92833089053' lon='107.59118500528' />
+  <node id='-83' action='modify' visible='true' lat='-6.92833076074' lon='107.59087666433' />
+  <node id='-85' action='modify' visible='true' lat='-6.92804558664' lon='107.59087678613' />
+  <node id='-87' action='modify' visible='true' lat='-6.92804571643' lon='107.59118512708' />
+  <way id='-89' action='modify' visible='true'>
+    <nd ref='-25' />
+    <nd ref='-23' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_7;NODE_8' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W-W-W-W' />
+    <tag k='way_id' v='PATH_8' />
+  </way>
+  <way id='-91' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-29' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_9;NODE_10' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='N-N-N-N-N-N-N-N-N' />
+    <tag k='way_id' v='PATH_10' />
+  </way>
+  <way id='-93' action='modify' visible='true'>
+    <nd ref='-29' />
+    <nd ref='-33' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_10;NODE_12' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W' />
+    <tag k='way_id' v='PATH_12' />
+  </way>
+  <way id='-95' action='modify' visible='true'>
+    <nd ref='-37' />
+    <nd ref='-39' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_14;NODE_15' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='N-N-N-N-N-N' />
+    <tag k='way_id' v='PATH_15' />
+  </way>
+  <way id='-97' action='modify' visible='true'>
+    <nd ref='-39' />
+    <nd ref='-43' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_15;NODE_17' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='N-N-N-N-N' />
+    <tag k='way_id' v='PATH_17' />
+  </way>
+  <way id='-99' action='modify' visible='true'>
+    <nd ref='-43' />
+    <nd ref='-47' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_17;NODE_19' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W-W-W' />
+    <tag k='way_id' v='PATH_19' />
+  </way>
+  <way id='-101' action='modify' visible='true'>
+    <nd ref='-49' />
+    <nd ref='-51' />
+    <nd ref='-53' />
+    <nd ref='-55' />
+    <nd ref='-49' />
+    <tag k='boundary' v='national_park' />
+  </way>
+  <way id='-103' action='modify' visible='true'>
+    <nd ref='-17' />
+    <nd ref='-19' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_5' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='S-S-S-S-S-S-S-S' />
+    <tag k='way_id' v='PATH_4' />
+  </way>
+  <way id='-105' action='modify' visible='true'>
+    <nd ref='-15' />
+    <nd ref='-17' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_4' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='E-E-E-E' />
+    <tag k='way_id' v='PATH_3' />
+  </way>
+  <way id='-107' action='modify' visible='true'>
+    <nd ref='-19' />
+    <nd ref='-13' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_2' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W' />
+    <tag k='way_id' v='PATH_5' />
+  </way>
+  <way id='-109' action='modify' visible='true'>
+    <nd ref='-13' />
+    <nd ref='-15' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_3' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='N-N-N-N-N-N-N-N' />
+    <tag k='way_id' v='PATH_2' />
+  </way>
+  <way id='-111' action='modify' visible='true'>
+    <nd ref='-11' />
+    <nd ref='-13' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_1;NODE_2' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='N-N-N-N-N-N-N-N-N-N' />
+    <tag k='way_id' v='PATH_1' />
+  </way>
+  <way id='-113' action='modify' visible='true'>
+    <nd ref='-21' />
+    <nd ref='-11' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_1;NODE_6' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W' />
+    <tag k='way_id' v='PATH_6' />
+  </way>
+  <way id='-115' action='modify' visible='true'>
+    <nd ref='-23' />
+    <nd ref='-21' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_6;NODE_7' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='S-S-S-S-S-S-S-S' />
+    <tag k='way_id' v='PATH_7' />
+  </way>
+  <way id='-117' action='modify' visible='true'>
+    <nd ref='-21' />
+    <nd ref='-27' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_6;NODE_9' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W-W-W-W-W' />
+    <tag k='way_id' v='PATH_9' />
+  </way>
+  <way id='-119' action='modify' visible='true'>
+    <nd ref='-29' />
+    <nd ref='-31' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_10;NODE_11' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='E-E-E-E-E-E-E' />
+    <tag k='way_id' v='PATH_11' />
+  </way>
+  <way id='-121' action='modify' visible='true'>
+    <nd ref='-33' />
+    <nd ref='-35' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_12;NODE_13' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='S-S-S-S-S-S-S-S' />
+    <tag k='way_id' v='PATH_13' />
+  </way>
+  <way id='-123' action='modify' visible='true'>
+    <nd ref='-27' />
+    <nd ref='-37' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_9;NODE_14' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W-W-W-W-W-W' />
+    <tag k='way_id' v='PATH_14' />
+  </way>
+  <way id='-125' action='modify' visible='true'>
+    <nd ref='-39' />
+    <nd ref='-41' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_15;NODE_16' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='W-W-W-W-W-W-W-W' />
+    <tag k='way_id' v='PATH_16' />
+  </way>
+  <way id='-127' action='modify' visible='true'>
+    <nd ref='-43' />
+    <nd ref='-45' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='nodes' v='NODE_17;NODE_18' />
+    <tag k='part' v='path' />
+    <tag k='path' v='yes' />
+    <tag k='step' v='N-N-N-N' />
+    <tag k='way_id' v='PATH_18' />
+  </way>
+  <way id='-129' action='modify' visible='true'>
+    <nd ref='-57' />
+    <nd ref='-59' />
+    <nd ref='-61' />
+    <nd ref='-63' />
+    <nd ref='-57' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Sekre 2 HMIF' />
+  </way>
+  <way id='-131' action='modify' visible='true'>
+    <nd ref='-65' />
+    <nd ref='-67' />
+    <nd ref='-69' />
+    <nd ref='-71' />
+    <nd ref='-65' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Lab Gaib' />
+  </way>
+  <way id='-133' action='modify' visible='true'>
+    <nd ref='-73' />
+    <nd ref='-75' />
+    <nd ref='-77' />
+    <nd ref='-79' />
+    <nd ref='-73' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Lab IRK' />
+  </way>
+  <way id='-135' action='modify' visible='true'>
+    <nd ref='-81' />
+    <nd ref='-83' />
+    <nd ref='-85' />
+    <nd ref='-87' />
+    <nd ref='-81' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Lab SisTer' />
+  </way>
+</osm>
